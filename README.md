@@ -2,9 +2,10 @@
 
 Ever wondered if your crush actually likes you back?  
 This mini machine learning project uses **Logistic Regression** to predict the *probability that someone likes you*, based on their texting and social behaviors.  
-It’s lighthearted, data-driven, and a fun way to learn classification modeling in Python. 💅  
- --- deployed at : https://unbarren-unheaped-carolann.ngrok-free.dev/
----
+It’s lighthearted, data-driven, and a fun way to learn classification modeling in Python. 💅
+
+ -> deployed at : https://unbarren-unheaped-carolann.ngrok-free.dev/
+
 
 ## 🧠 Overview
 This project builds a binary classification model using **Scikit-learn** and **Pandas**.  
